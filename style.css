@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size:60px;
+}
+p{font-size:18px}
+.top-section{
+ padding: 20px;
+}
+.single{
+float:left;
+width:40%;
+padding: 5px 20px;
+margin:0 2%;
+
+}
+.top-section img{
+    width:70%;
+}
+.word-highlight{
+    color:orange;
+}
+.focus{
+    font-family: 'Yeseva One', cursive,sans-serif;
+
+    border-left: 5px solid red;
+    padding: 0 20px;
+    border-radius: 4px;
+    
+}
+.btn-color{
+    
+background: #FF5959;
+padding: 10px 20px;
+border-radius: 5%;
+color: #ffffff;
+
+}
+a{
+    text-decoration: none;
+}
+.triple{
+
+}
