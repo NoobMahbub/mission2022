@@ -94,7 +94,7 @@ a{
     width:70%;
 }
 .coding-area{
-    background: url(images/shapes/shape-1.png);
+    background: url(.images/shapes/shape-1.png);
     background-position:center;
     background-repeat: no-repeat;
    background-size: 20%;
@@ -103,7 +103,7 @@ a{
     width: 65%;
 }
 .coding{
-    background: url(images/shapes/shape-1.png);
+    background: url(.images/shapes/shape-1.png);
     background-position:left;
     background-repeat: no-repeat;
    background-size: 40%;
@@ -122,7 +122,7 @@ text-align:left;
     padding: 500px 100px;
 }
 .project{
-    background: url(images/shapes/shape-1.png);
+    background: url(.images/shapes/shape-1.png);
     background-position:right;
     background-repeat: no-repeat;
    background-size: 20%;
@@ -153,7 +153,7 @@ footer{
     border-radius: 4px;
 }
 .app-area{
-    background: url(images/shapes/shape-2.png);
+    background: url(.images/shapes/shape-2.png);
     background-position:left;
     background-repeat: no-repeat;
    background-size: 30%;
