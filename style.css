@@ -89,12 +89,7 @@ a{
 .goals-mission img{
     width:40%;
 }
-.dotted{
-    position:absolute;
-    right: -78px;
-    bottom: -490px;
-    height: 150px;
-}
+
 .single img{
     width:70%;
 }
@@ -150,6 +145,7 @@ footer{
     padding:100px;
     color:#ffffff;
     text-align:center;
+    max-width: auto;
 }
 .missiontext{
     font-family: 'Yeseva One', cursive,sans-serif;   
