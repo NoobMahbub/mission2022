@@ -3,9 +3,12 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 h1{
-    font-size:60px;
+    font-size:45px;
 }
-p{font-size:18px}
+p{
+    font-size:18px;
+    padding: 20px 0;
+}
 .top-section{
  padding: 20px;
 }
@@ -33,8 +36,8 @@ margin:0 2%;
 .btn-color{
     
 background: #FF5959;
-padding: 10px 20px;
-border-radius: 5%;
+padding: 10px 15px;
+border-radius: 4%;
 color: #ffffff;
 
 }
@@ -85,4 +88,81 @@ a{
 }
 .goals-mission img{
     width:40%;
+}
+.dotted{
+    position:absolute;
+    right: -78px;
+    bottom: -490px;
+    height: 150px;
+}
+.single img{
+    width:70%;
+}
+.coding-area{
+    background: url(images/shapes/shape-1.png);
+    background-position:center;
+    background-repeat: no-repeat;
+   background-size: 20%;
+}
+.coding img{
+    width: 65%;
+}
+.coding{
+    background: url(images/shapes/shape-1.png);
+    background-position:left;
+    background-repeat: no-repeat;
+   background-size: 40%;
+   text-align:center;
+   padding-left: 100px;
+   text-align:center;
+   background-position-x:15% ;
+}
+
+.devtext p h1{
+float:left;
+text-align:left;
+
+}
+.community{
+    padding: 500px 100px;
+}
+.project{
+    background: url(images/shapes/shape-1.png);
+    background-position:right;
+    background-repeat: no-repeat;
+   background-size: 20%;
+   text-align:center;
+   padding-left: 100px;
+   text-align:center;
+   background-position-y:100%;
+   background-position-x: 85%;
+   
+}
+ .corona-app{
+    text-align: center;
+    padding: 50px 50px;
+} 
+
+footer{
+    background: #000000;
+    height: 177px;  
+    margin-top:850px;
+    padding:100px;
+    color:#ffffff;
+    text-align:center;
+}
+.missiontext{
+    font-family: 'Yeseva One', cursive,sans-serif;   
+    padding: 0 20px;
+    border-radius: 4px;
+}
+.app-area{
+    background: url(images/shapes/shape-2.png);
+    background-position:left;
+    background-repeat: no-repeat;
+   background-size: 30%;
+   text-align:center;
+   padding-left: 100px;
+   text-align:center;
+   background-position-x:15% ;
 }
